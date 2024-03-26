@@ -1,0 +1,3 @@
+[submodule "ffhq-dataset"]
+	path = ffhq-dataset
+	url = https://github.com/NVlabs/ffhq-dataset.git
